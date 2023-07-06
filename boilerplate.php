@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name:       Boilerplate
+ * Plugin Name:       G-blocks
  * Description:       Example block scaffolded with Create Block tool.
  * Requires at least: 6.1
  * Requires PHP:      7.0
